@@ -5,16 +5,13 @@ The model learns sequential language patterns from text data and predicts the mo
 
 ---
 
+Live app https://next-word-prediction-using-lstm-srhodspq9itgvf7gwnc2kn.streamlit.app/
+
 ## 📌 Project Overview
 
 Next Word Prediction is a core task in **Natural Language Processing (NLP)**.  
 This project uses a deep learning–based LSTM architecture to capture long-term dependencies between words.
 
-**Example:**
-```
-Input  : To be or not to be
-Output : considered
-```
 
 ---
 
